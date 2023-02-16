@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-Vegit
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 Reach me on my email id kinshuksaha1234@gmail.com
+- 🌱 I’m currently building projects for experience
+- 💞️ I’m looking to collaborate on Website projects at the moment
+- 📫 Reach me on my email id owner@mrvegit.live
 
 
 <!---
